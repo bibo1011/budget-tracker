@@ -30,6 +30,21 @@
    
   Once app is running on the browser, enter a transaction name and transaction amount you want to add on your budget tracker. Graph or chart will update consequently as you add or subtract transaction.
 
+  Screenshots:
+
+  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss1.png "budget tracker ss1")
+
+  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss2.png "budget tracker ss2")
+
+  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss3.png "budget tracker ss3")
+
+  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss4.png "budget tracker ss4")
+
+  Link to application:
+
+  https://bibo1011-budget-tracker.herokuapp.com/
+
+
   ## *Credits*
    
   UCB Bootcamp
