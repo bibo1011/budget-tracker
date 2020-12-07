@@ -32,18 +32,13 @@
 
   Screenshots:
 
-  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss1.png "budget tracker ss1")
+  ![alt text](https://github.com/bibo1011/budget-tracker/raw/main/public/images/ch19ss1.png "budget tracker ss1")
 
-  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss2.png "budget tracker ss2")
+  ![alt text](https://github.com/bibo1011/budget-tracker/raw/main/public/images/ch19ss2.png "budget tracker ss2")
 
-  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss3.png "budget tracker ss3")
+  ![alt text](https://github.com/bibo1011/budget-tracker/raw/main/public/images/ch19ss3.png "budget tracker ss3")
 
-  ![alt text](https://github.com/bibo1011/budget-tracker/public/images/ch19ss4.png "budget tracker ss4")
-
-  Link to application:
-
-  https://bibo1011-budget-tracker.herokuapp.com/
-
+  ![alt text](https://github.com/bibo1011/budget-tracker/raw/main/public/images/ch19ss4.png "budget tracker ss4")
 
   ## *Credits*
    
@@ -68,6 +63,10 @@
   ## *Test*
    
   Open app with chrome then open the developer tools to test offline functionality.
+
+  Link to application:
+
+  https://bibo1011-budget-tracker.herokuapp.com/
 
   # Contact Info
 
