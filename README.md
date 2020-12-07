@@ -24,7 +24,7 @@
 
   ## *Installation*
    
-  Install the following packages: express.js and mongoose. Run `npm start` on terminal to listen to app then view app in browser. 
+  Install the following packages: express.js, compression, morgan, mpath, readable-stream, stream and mongoose. Run `npm start` on terminal to listen to app then view app in browser. 
 
   ## *Usage*
    

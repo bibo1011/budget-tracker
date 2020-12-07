@@ -1,28 +1,35 @@
 {
-  "name": "budget-app",
+  "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "challenge 19",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "lite-server": "lite-server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
-  },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "materialize": "^1.0.0",
     "mongoose": "^5.11.4",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "mpath": "^0.8.0",
+    "readable-stream": "^3.6.0",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibo1011/budget-tracker.git"
+  },
+  "keywords": [
+    "progressive",
+    "web",
+    "application"
+  ],
+  "author": "blue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibo1011/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/bibo1011/budget-tracker#readme"
 }
